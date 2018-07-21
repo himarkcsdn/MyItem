@@ -1,2 +1,2 @@
-# MyItem
-这是我之前在网上学习写的小游戏贪吃蛇，可能会有考虑不周全的地方。
+﻿# MyItem
+This is himark
